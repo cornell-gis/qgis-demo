@@ -1,5 +1,7 @@
 # Intro to QGIS for people already familiar with ArcGIS Pro
 
+[DOWNLOAD Workshop data](https://github.com/cornell-gis/qgis-demo/archive/refs/heads/main.zip)
+
 SYLLABUS so far:
 - load data, basic symbology, querying data
 - projections
