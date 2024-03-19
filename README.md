@@ -13,6 +13,7 @@ About the QGIS Project
   - Windows, Mac, Linux
   - Free, Open source - anyone can download from http://qgis.org/
   - Documentation https://docs.qgis.org/latest/en/docs/training_manual/
+  - New version released every 4 months https://qgis.org/en/site/forusers/visualchangelog336/
   - Community
     - https://gis.stackexchange.com/
     - Bug reports https://github.com/qgis/QGIS/issues/56192
