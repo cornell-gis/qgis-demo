@@ -61,9 +61,6 @@ About the QGIS Project
   - Temporary outputs
   - Model designer - build processing workflows
 
-- Layouts
-  - Atlas
-
 - Plugins
   - QuickMapServices
   - Value Tool
@@ -72,3 +69,6 @@ About the QGIS Project
   - Gamepad Navigation
   - Connect to functions from other software:
     - GRASS, R, PCRaster, WhiteboxTools
+
+- Layouts
+  - Atlas
