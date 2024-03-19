@@ -13,15 +13,15 @@ About the QGIS Project
   - Started by Gary Sherman (in Alaska) in 2002
   - Many active developers are in Europe, Australia, and South Africa
   - Windows, Mac, Linux
-  - Free, Open source - anyone can download from http://qgis.org/
-  - Documentation https://docs.qgis.org/latest/en/docs/training_manual/
-  - New version released every 4 months https://qgis.org/en/site/forusers/visualchangelog336/
+  - Free, Open source - anyone can download from <http://qgis.org/>
+  - Documentation <https://docs.qgis.org/latest/en/docs/training_manual/>
+  - New version released every 4 months <https://qgis.org/en/site/forusers/visualchangelog336/>
   - Community
-    - https://gis.stackexchange.com/
-    - Bug reports https://github.com/qgis/QGIS/issues/56192
+    - <https://gis.stackexchange.com/>
+    - Bug reports <https://github.com/qgis/QGIS/issues/56192>
     - Developer and User listservs
-    - QGIS map showcase https://www.flickr.com/groups/qgis/pool/
-    - https://www.qgistutorials.com/
+    - QGIS map showcase <https://www.flickr.com/groups/qgis/pool/>
+    - <https://www.qgistutorials.com/>
 
 - Open project - explore layers
   - Layer properties
